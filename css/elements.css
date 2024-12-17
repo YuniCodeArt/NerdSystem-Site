@@ -1,0 +1,36 @@
+.logo {
+    border: 3px solid #2b2b2b;
+    width: 40px;
+}
+.namenerd {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 2em;
+    font-weight: 700;
+    font-style: bold;
+    padding-left: 16px;
+    justify-self: center;
+    color: #2b2b2b;
+    white-space: nowrap;
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+    border-radius: 50%;
+    width: 50px;
+}
+
+hr {
+    border: none;
+    position: relative;
+    bottom: 14px;
+    width: auto;
+    height: 2px;    
+    background-color: #2b2b2b;
+    padding: 0;
+}
